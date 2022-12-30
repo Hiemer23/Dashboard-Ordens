@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dashboard-Ordens/static/css/main.a88d7f5e.css",
+    "main.js": "/Dashboard-Ordens/static/js/main.b4d1ec06.js",
+    "static/media/loading.svg": "/Dashboard-Ordens/static/media/loading.cb532fb55bf84419963cc55778925f86.svg",
+    "index.html": "/Dashboard-Ordens/index.html",
+    "main.a88d7f5e.css.map": "/Dashboard-Ordens/static/css/main.a88d7f5e.css.map",
+    "main.b4d1ec06.js.map": "/Dashboard-Ordens/static/js/main.b4d1ec06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a88d7f5e.css",
+    "static/js/main.b4d1ec06.js"
+  ]
+}
